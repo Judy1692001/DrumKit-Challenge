@@ -7,7 +7,7 @@ for(var i=0;i<document.querySelectorAll(".drum").length;i++)
 
         switch(letter)
         {
-            case "w" :  audio = new Audio("sounds/tom-1.mp3");
+            case "w" :  audio = new Audio("sounds/tom-1.mp3"); 
             audio.play();
             break;
 
